@@ -16,9 +16,7 @@ tools.
 prone to human error, oversight, and misinterpretation, especially under time constraints. 
 4. Dynamic Operating Conditions: Industrial environments are dynamic; variations in 
 operational processes, seasonal changes, equipment wear, and chemical reactions create 
-unpredictable risk patterns. Traditional models struggle to adapt to such variability. 
-Summer Internship (3170001)  
-2  
+unpredictable risk patterns. Traditional models struggle to adapt to such variability.  
 5. Lack of Predictive Analytics: Current solutions focus mainly on hazard detection 
 (identifying when an unsafe state exists), not hazard prediction (forecasting the likelihood of 
 future explosions). 
